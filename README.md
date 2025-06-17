@@ -49,7 +49,3 @@ This Power BI dashboard empowers hospital management with real-time insights int
 - Reduce bottlenecks in high-traffic hours.
 - Improve the overall ER experience for patients.
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/hospital-er-dashboard.git
