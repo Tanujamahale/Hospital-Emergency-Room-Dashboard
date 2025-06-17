@@ -18,7 +18,7 @@ The goal of this dashboard is to:
 - **Power Query**: for data transformation and cleaning.
 
 ## 🖼️ Key Visuals
-*(Make sure to upload PNG screenshots of your dashboard and graphs and add them to this section)*
+
 
 | Visual | Description |
 |--------|-------------|
@@ -26,7 +26,6 @@ The goal of this dashboard is to:
 | ![Hourly Patient Flow](images/hourly_flow.png) | Graph showing peak hours of ER traffic |
 | ![Admission vs Discharge](images/admission_discharge.png) | Comparison of patients admitted vs discharged |
 
-> 📌 *To add images, create a folder named `/images` in your repo and upload screenshots.*
 
 ## 📈 Analysis of Graphs
 1. **Hourly Trends**:
