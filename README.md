@@ -23,7 +23,7 @@ The goal of this dashboard is to:
 | Visual | Description |
 |--------|-------------|
 | ![Dashboard Screenshot](Dashboard.png) | Monthly overview of patient volume, average wait time, and admission status |
-| ![Dashboard Screenshot].(Consolidated view.png).| Consolidated overview of patient volume, average wait time, and admission status |
+
 
 
 
