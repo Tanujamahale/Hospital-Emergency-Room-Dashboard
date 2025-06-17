@@ -22,7 +22,7 @@ The goal of this dashboard is to:
 
 | Visual | Description |
 |--------|-------------|
-| ![Dashboard Screenshot](images/dashboard.png) | Overview of patient volume, average wait time, and admission status |
+| ![Dashboard Screenshot](Dashboard.png) | Overview of patient volume, average wait time, and admission status |
 | ![Hourly Patient Flow](images/hourly_flow.png) | Graph showing peak hours of ER traffic |
 | ![Admission vs Discharge](images/admission_discharge.png) | Comparison of patients admitted vs discharged |
 
